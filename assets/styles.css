@@ -4,3 +4,23 @@
   justify-content: center;
   align-items: center;
 }
+.row {
+  width: 100%;
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+}
+.col-6 {
+  width: 50%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.abstract {
+  color: green;
+}
+.concret {
+  color: blue;
+}
+.hook {
+  color: red;
+}
