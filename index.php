@@ -24,7 +24,7 @@ if (!empty($arrUrl[2])) {
     }
 }
 
-print_r($arrUrl);
+// print_r($arrUrl);
 
 require_once("Libraries/Core/Autoload.php");
 
