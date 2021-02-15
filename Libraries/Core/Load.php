@@ -3,9 +3,9 @@
 function reload($controller, $method, $params)
 {
     // echo "Metodo" . $method;
-
+    $file = $controller;
     $controller = ucwords($controller);
-    $controllerFile = "Business/" . $controller . ".php";
+    $controllerFile = "Business/" . $file . "/" . $controller . ".php";
     // echo $controller;
     if (file_exists($controllerFile)) {
         // echo $controllerFile;

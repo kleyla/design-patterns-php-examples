@@ -2,4 +2,8 @@
 
 ## SINGLETON
 
-https://refactoring.guru/es/design-patterns/singleton/php/example#example-0
+https://refactoring.guru/es/design-patterns/singleton/php/example
+
+## STRATEGY
+
+https://refactoring.guru/es/design-patterns/strategy/php/example
