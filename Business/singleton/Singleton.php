@@ -21,6 +21,7 @@ class Singleton extends Business
         } else {
             $response = "Singleton fallo, las variables son diferentes instancias.";
         }
+        $data["pattern"] = "Singleton";
         $data["response"] = $response;
         $data["clase"] = get_class($db1);
 

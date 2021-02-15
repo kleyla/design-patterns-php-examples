@@ -7,29 +7,15 @@ function media()
 {
     return BASE_URL . "assets/";
 }
-function headerAdmin($data = "")
-{
-    $view_header = "Vista/template/header_admin.php";
-    require_once($view_header);
-}
-function footerAdmin($data = "")
-{
-    $view_footer = "Vista/template/footer_admin.php";
-    require_once($view_footer);
-}
-function navAdmin($data = "")
-{
-    $view_nav = "Vista/template/nav_admin.php";
-    require_once($view_nav);
-}
+
 function headerPublic($data = "")
 {
-    $view_header = "Vista/template/header_public.php";
+    $view_header = "Views/template/header.php";
     require_once($view_header);
 }
 function footerPublic($data = "")
 {
-    $view_footer = "Vista/template/footer_public.php";
+    $view_footer = "Views/template/footer.php";
     require_once($view_footer);
 }
 

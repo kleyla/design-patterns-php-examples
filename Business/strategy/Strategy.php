@@ -15,9 +15,10 @@ class Strategy extends Business
     public function strategy()
     {
         $arr = ["d", "e", "a", "b", "c"];
+        $data["pattern"] = "Strategy";
         $data["data"] = $arr;
-        // $data["asc"] = $this->asc();
-        // $data['desc'] = $this->desc();
+        $data["script"] = "strategy/script.js";
+
         $this->getView("strategy/index", $data);
     }
     public function asc()
@@ -35,9 +36,7 @@ class Strategy extends Business
     {
         $arr = ["d", "e", "a", "b", "c"];
         $this->context = new ContextStrategy(new Descendent());
-        // echo get_class($this->context);
         $order =  $this->context->resolv($arr);
-        // dep($order);
         $arrResponse = array('status' => true, 'data' => $order);
         echo json_encode($arrResponse, JSON_UNESCAPED_UNICODE);
     }
