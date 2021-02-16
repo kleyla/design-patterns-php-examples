@@ -1,10 +1,10 @@
 <?php headerPublic($data); ?>
 
 <div class="container">
-    <h1>Singleton</h1>
-    <h3><?= $data["response"] ?></h3>
+    <h1><?= $data["pattern"] ?></h1>
+    <h3>Resultado</h3>
     <h4>Datos:</h4>
-    <p>Clase: <?= $data["clase"] ?></p>
+    <p>Clase: <?= $data["response"] ?></p>
 </div>
 
 <?php footerPublic($data); ?>
