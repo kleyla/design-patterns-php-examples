@@ -24,3 +24,7 @@
 .hook {
   color: red;
 }
+.btn-state {
+  background-color: green;
+  color: white;
+}
