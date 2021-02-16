@@ -3,7 +3,7 @@ require_once("Business/templateM/GameAI.php");
 require_once('Business/templateM/MonsterAI.php');
 require_once('Business/templateM/OrcoAI.php');
 
-class TemplateM extends Business
+class TemplateMClient extends Business
 {
     public function __construct()
     {

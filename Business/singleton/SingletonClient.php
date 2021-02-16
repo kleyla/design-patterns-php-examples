@@ -1,6 +1,6 @@
 <?php
 
-class Singleton extends Business
+class SingletonClient extends Business
 {
 
     public function __construct()

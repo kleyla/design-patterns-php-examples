@@ -3,7 +3,7 @@ require_once("Business/strategy/ContextStrategy.php");
 require_once("Business/strategy/Ascendent.php");
 require_once("Business/strategy/Descendent.php");
 
-class Strategy extends Business
+class StrategyClient extends Business
 {
     private $context;
 

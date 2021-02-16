@@ -4,11 +4,11 @@ function reload($controller, $method, $params)
 {
     // echo "Metodo" . $method;
     $file = $controller;
-    $controller = ucwords($controller);
+    $controller = ucwords($controller) . "Client";
     $controllerFile = "Business/" . $file . "/" . $controller . ".php";
     // echo $controller;
+    // echo $controllerFile;
     if (file_exists($controllerFile)) {
-        // echo $controllerFile;
         require_once($controllerFile);
         $controller = new $controller();
         // echo $method;

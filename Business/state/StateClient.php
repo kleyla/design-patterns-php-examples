@@ -4,7 +4,7 @@ require_once("Business/state/ReadyState.php");
 require_once("Business/state/PlayingState.php");
 require_once("Business/state/LockedState.php");
 
-class State extends Business
+class StateClient extends Business
 {
 
     private $player;
