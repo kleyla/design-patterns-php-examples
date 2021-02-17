@@ -1,31 +1,31 @@
 # PATRONES DE DISENO
 
-## SINGLETON
+## CREACIONALES
 
-Creacional
+### SINGLETON (done)
 
 https://refactoring.guru/es/design-patterns/singleton/php/example
 
-## STRATEGY
+### FACTORY METHOD
 
-Comportamiento
+https://refactoring.guru/es/design-patterns/factory-method/php/example
+
+## ESTRUCTURALES
+
+### COMPOSITE (done)
+
+https://refactoring.guru/es/design-patterns/composite/php/example
+
+## COMPORTAMIENTO
+
+### STRATEGY (done)
 
 https://refactoring.guru/es/design-patterns/strategy/php/example
 
-## TEMPLATE METHOD
-
-Comportamiento
+### TEMPLATE METHOD (done)
 
 https://refactoring.guru/es/design-patterns/template-method/php/example
 
-## ESTADO
-
-Comportamiento
+### ESTADO (done)
 
 https://refactoring.guru/es/design-patterns/state/php/example
-
-## COMPOSITE
-
-Estructural
-
-https://refactoring.guru/es/design-patterns/composite/php/example
