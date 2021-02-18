@@ -20,6 +20,10 @@ https://refactoring.guru/es/design-patterns/abstract-factory/php/example
 
 https://refactoring.guru/es/design-patterns/composite/php/example
 
+- ### ADAPTER (done)
+
+
+
 ## COMPORTAMIENTO
 
 - ### STRATEGY (done)

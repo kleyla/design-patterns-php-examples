@@ -46,3 +46,17 @@
 .checkbox-windows {
   color: blue;
 }
+.text-blue {
+  color: blue;
+}
+.text-red {
+  color: red;
+}
+.btn-blue {
+  background-color: blue;
+  color: white;
+}
+.btn-red {
+  background-color: red;
+  color: white;
+}
