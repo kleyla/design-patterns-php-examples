@@ -14,6 +14,10 @@ https://refactoring.guru/es/design-patterns/factory-method/php/example
 
 https://refactoring.guru/es/design-patterns/abstract-factory/php/example
 
+- ### BUILDER
+
+https://refactoring.guru/es/design-patterns/builder/php/example
+
 ## ESTRUCTURALES
 
 - ### COMPOSITE (done)
@@ -21,8 +25,6 @@ https://refactoring.guru/es/design-patterns/abstract-factory/php/example
 https://refactoring.guru/es/design-patterns/composite/php/example
 
 - ### ADAPTER (done)
-
-
 
 ## COMPORTAMIENTO
 
