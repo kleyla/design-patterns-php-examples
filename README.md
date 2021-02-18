@@ -2,34 +2,34 @@
 
 ## CREACIONALES
 
-### SINGLETON (done)
+- ### SINGLETON (done)
 
 https://refactoring.guru/es/design-patterns/singleton/php/example
 
-### FACTORY METHOD
+- ### FACTORY METHOD
 
 https://refactoring.guru/es/design-patterns/factory-method/php/example
 
-### ABSTRACT FACTORY
+- ### ABSTRACT FACTORY
 
 https://refactoring.guru/es/design-patterns/abstract-factory/php/example
 
 ## ESTRUCTURALES
 
-### COMPOSITE (done)
+- ### COMPOSITE (done)
 
 https://refactoring.guru/es/design-patterns/composite/php/example
 
 ## COMPORTAMIENTO
 
-### STRATEGY (done)
+- ### STRATEGY (done)
 
 https://refactoring.guru/es/design-patterns/strategy/php/example
 
-### TEMPLATE METHOD (done)
+- ### TEMPLATE METHOD (done)
 
 https://refactoring.guru/es/design-patterns/template-method/php/example
 
-### ESTADO (done)
+- ### ESTADO (done)
 
 https://refactoring.guru/es/design-patterns/state/php/example
