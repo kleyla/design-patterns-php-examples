@@ -10,6 +10,10 @@ https://refactoring.guru/es/design-patterns/singleton/php/example
 
 https://refactoring.guru/es/design-patterns/factory-method/php/example
 
+### ABSTRACT FACTORY
+
+https://refactoring.guru/es/design-patterns/abstract-factory/php/example
+
 ## ESTRUCTURALES
 
 ### COMPOSITE (done)

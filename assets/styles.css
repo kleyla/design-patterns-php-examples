@@ -36,3 +36,13 @@
   background-color: blue;
   color: white;
 }
+.btn-mac {
+  background-color: green;
+  color: white;
+}
+.checkbox-mac {
+  color: green;
+}
+.checkbox-windows {
+  color: blue;
+}
