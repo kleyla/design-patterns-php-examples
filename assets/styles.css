@@ -60,3 +60,23 @@
   background-color: red;
   color: white;
 }
+.bg-blue {
+  background-color: blue;
+  color: white;
+  margin: 5px;
+}
+.bg-red {
+  background-color: red;
+  color: white;
+  margin: 5px;
+}
+.bg-green {
+  background-color: green;
+  color: white;
+  margin: 5px;
+}
+.bg-purple {
+  background-color: purple;
+  color: white;
+  margin: 5px;
+}
