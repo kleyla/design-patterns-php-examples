@@ -18,6 +18,10 @@ https://refactoring.guru/es/design-patterns/abstract-factory/php/example
 
 https://refactoring.guru/es/design-patterns/builder/php/example
 
+- ### PROTOTYPE
+
+https://refactoring.guru/es/design-patterns/prototype/php/example
+
 ## ESTRUCTURALES
 
 - ### COMPOSITE (done)
