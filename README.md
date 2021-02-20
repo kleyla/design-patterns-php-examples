@@ -30,6 +30,10 @@ https://refactoring.guru/es/design-patterns/composite/php/example
 
 - ### ADAPTER (done)
 
+https://refactoring.guru/es/design-patterns/adapter/php/example
+
+- ### FACHADA (done)
+
 ## COMPORTAMIENTO
 
 - ### STRATEGY (done)
