@@ -14,7 +14,7 @@ https://refactoring.guru/es/design-patterns/factory-method/php/example
 
 https://refactoring.guru/es/design-patterns/abstract-factory/php/example
 
-- ### BUILDER
+- ### BUILDER (done)
 
 https://refactoring.guru/es/design-patterns/builder/php/example
 
@@ -32,7 +32,9 @@ https://refactoring.guru/es/design-patterns/composite/php/example
 
 https://refactoring.guru/es/design-patterns/adapter/php/example
 
-- ### FACHADA (done)
+- ### FACADE (done)
+
+https://refactoring.guru/es/design-patterns/facade/php/example
 
 ## COMPORTAMIENTO
 

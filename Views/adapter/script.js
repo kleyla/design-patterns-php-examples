@@ -29,6 +29,7 @@ $("#formRounded").submit(function (event) {
     }
   };
 });
+
 $("#formSquare").submit(function (event) {
   event.preventDefault();
 
