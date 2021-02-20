@@ -80,3 +80,12 @@
   color: white;
   margin: 5px;
 }
+.circle {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+.square {
+  width: 100px;
+  height: 100px;
+}
