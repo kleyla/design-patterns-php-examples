@@ -57,4 +57,17 @@ class PrototypeClient extends Business
         $phpBook1->setTitle("PHP for babies");
         echo $phpBook1->getBook();
     }
+    public function exa2()
+    {
+        $phpBook = new PHPBookPrototype();
+        $phpBook->setTitle("Php for dummies");
+
+        $phpBook2 = $phpBook;
+        $phpBook2->setTitle("Title 2");
+
+        // APUNTAN A LA MISMA DIRECCION DE MEMORIA
+        echo $phpBook->getBook();
+
+        echo $phpBook2->getBook();
+    }
 }
